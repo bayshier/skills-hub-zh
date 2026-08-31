@@ -1,0 +1,14 @@
+skills-hub 中文版（skills-hub-zh）
+Copyright 2026 Easin
+
+本仓库地址：https://github.com/bayshier/skills-hub-zh
+
+本仓库为 qufei1993/skills-hub（MIT License）的中文版镜像：
+https://github.com/qufei1993/skills-hub
+原项目版权：Copyright (c) 2025 qufei1993
+
+相对原项目的变化：主 README 采用中文（基于原作者维护的
+docs/README.zh.md 整理，英文原版保留在 docs/README.en.md）；
+AGENTS.md / CONTRIBUTING.md / SECURITY.md / CODE_OF_CONDUCT.md
+提供中文版；应用源码未做任何改动。docs/releases 下的内部开发
+计划文档保留英文原文。原项目 LICENSE 随本仓库保留。
